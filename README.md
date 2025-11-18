@@ -51,6 +51,8 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ## 📊 OBSERVATION AND CALCULATION
+<img width="1076" height="1600" alt="image" src="https://github.com/user-attachments/assets/7bdf7187-7d9b-4b80-9829-fe969f596e55" />
+
 
 - 
 Parameter of given fiber are,
@@ -60,4 +62,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+<img width="1124" height="1600" alt="image" src="https://github.com/user-attachments/assets/c87364fc-145e-48e2-b8d4-68ffcef45aa2" />
+
 ## Result
+Thus, the experiment verified the presence of lower-order Linearly Polarized (LP) modes and confirmed the dependence of mode propagation on V-number and fiber alignment.
