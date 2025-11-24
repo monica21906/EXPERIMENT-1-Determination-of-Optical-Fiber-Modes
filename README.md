@@ -51,6 +51,9 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ## 📊 OBSERVATION AND CALCULATION
+
+<img width="722" height="760" alt="image" src="https://github.com/user-attachments/assets/1dee1659-2ccd-40aa-a426-848d6d8a4d90" />
+
 <img width="1076" height="1600" alt="image" src="https://github.com/user-attachments/assets/7bdf7187-7d9b-4b80-9829-fe969f596e55" />
 
 
